@@ -1,0 +1,10 @@
+1) To run the code, please install these packages: 
+
+	library(data.table)
+	library(jsonlite)
+	library(ggplot2)
+	library(reshape2)
+	library(lsa)
+
+2) The main file is "dataAnalysis.R". To execute, type "Rscript dataAnalysis.R" in the terminal.
+Or run it in RStudio. 
