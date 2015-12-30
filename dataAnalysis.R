@@ -30,7 +30,7 @@ setwd(".")
 ########################################################
 
 # Read in the data
-casestudy_df <- read.csv("data/intern_casestudy_data.csv", header = TRUE)
+casestudy_df <- read.csv("intern_casestudy_data.csv", header = TRUE)
 summary(casestudy_df)
 
 # Check the dimensions,type and structure of the data
